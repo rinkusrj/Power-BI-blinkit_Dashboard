@@ -70,3 +70,5 @@ Outcome: Identify key insights and optimization opportunities using KPIs and Pow
 # Repository  Structure 
 
 Data: https://github.com/rinkusrj/Power-BI-blinkit_Dashboard
+Dashboard: <img width="581" alt="Dashboard_Image" src="https://github.com/user-attachments/assets/cffac004-5194-456d-a4ed-1a799c0d08cb" />
+
